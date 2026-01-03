@@ -1,0 +1,13 @@
+Debug/
+Release/
+.settings/
+.project
+.cproject
+
+*.o
+*.elf
+*.map
+*.hex
+*.bin
+
+.DS_Store
